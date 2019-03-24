@@ -17,3 +17,16 @@ D:\Ambiente de Trabalho\testapp\Test\bin\Debug\nunit.framework.dll
 D:\Ambiente de Trabalho\testapp\Test\bin\Debug\nunit.framework.pdb
 D:\Ambiente de Trabalho\testapp\Test\bin\Debug\nunit.framework.xml
 D:\Ambiente de Trabalho\testapp\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Ambiente de Trabalho\testapp\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\CommonServiceLocator.dll
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\System.Windows.Interactivity.dll
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Ambiente de Trabalho\testapp\Test\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Ambiente de Trabalho\testapp\Test\obj\Debug\App.baml
